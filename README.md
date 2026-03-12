@@ -81,6 +81,3 @@ To display **help command** type `/st`
 Stats checking for classic duels is automatic, and not toggleable. Does not have any settings.
 
 
-## Owner Info
-
-`melissalmao` - Melissa (fwrina)
